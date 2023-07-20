@@ -1,0 +1,17 @@
+opencv-python==4.8.0.74
+realesrgan==0.3.0
+glob2
+torch==2.0.1
+torchaudio==2.0.2
+torchvision==0.15.2
+basicsr>=1.4.2
+facexlib>=0.2.5
+numpy
+gfpgan==1.3.8
+matplotlib
+lmdb
+pyyaml
+scipy
+tb-nightly
+tqdm
+yapf
